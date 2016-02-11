@@ -1,0 +1,26 @@
+{
+  "name": "grid-menu",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mgmcdermott/grid-menu",
+  "authors": [
+    "Michael McDermott <michael@mgmcdermott.com>"
+  ],
+  "description": "A jQuery plugin for using a grid menu inspired by Google applications.",
+  "main": "grid-menu/grid.min.js",
+  "keywords": [
+    "jQuery",
+    "grid",
+    "menu",
+    "navbar",
+    "Google",
+    "apps"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
